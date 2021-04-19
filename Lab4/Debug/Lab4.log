@@ -1,0 +1,6 @@
+﻿  Lab4.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(1856,1): warning C4005: RGB: изменение макроопределения
+C:\Users\admin\Desktop\OS\Lab4\Lab4\Lab4.cpp(9): message : см. предыдущее определение "RGB"
+C:\Users\admin\Desktop\OS\Lab4\Lab4\Lab4.cpp(104,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\admin\Desktop\OS\Lab4\Lab4\Lab4.cpp(104,9): warning C4101: x: неиспользованная локальная переменная
+  Lab4.vcxproj -> C:\Users\admin\Desktop\OS\Lab4\Debug\Lab4.exe
